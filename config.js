@@ -30,7 +30,7 @@ global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
 global.userImages = process.env.USER_IMAGES || "https://telegra.ph/file/d651f3e156f14597440be.jpg";
 global.waPresence = process.env.WAPRESENCE || "recording";
 global.readcmds = process.env.READ_COMMAND || "false";
-global.readmessage = process.env.READ_MESSAGE || "true";
+global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
@@ -47,11 +47,11 @@ module.exports = {
   menu: process.env.MENU || "2",
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
-  VERSION: process.env.VERSION || "5.52",
+  VERSION: process.env.VERSION || "5.5.2",
   caption: process.env.CAPTION || "𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5™`",
   author: process.env.PACK_AUTHER || "𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5",
-  packname: process.env.PACK_NAME || "𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5",
-  botname: process.env.BOT_NAME || "𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5",
+  packname: process.env.PACK_NAME || "𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃-𝛁𝚯𝐋𝐔𝚳𝚵5",
+  botname: process.env.BOT_NAME || "𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃-𝛁𝚯𝐋𝐔𝚳𝚵5",
   ownername: process.env.OWNER_NAME || "𝐂𝚯𝚩𝐔≈≈𝚻𝚵𝐂𝚮",
   errorChat: process.env.ERROR_CHAT || "true",
   KOYEB_API: process.env.KOYEB_API || "false",
