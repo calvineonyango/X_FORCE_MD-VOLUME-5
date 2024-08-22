@@ -40,11 +40,11 @@ const {
      let _0x4263be = _0x47ed60[0].split("https://chat.whatsapp.com/")[1].trim();
      await _0x466dd8.bot.groupAcceptInvite(_0x4263be).then(_0x7f3222 => send(_0x466dd8, "*_Joined_*", {}, "", _0x466dd8)).catch(_0x1d6aea => _0x466dd8.send("*_Can't Join, Group Id not found!!_*"));
    } catch (_0x5d3484) {
-     await _0x466dd8.error(_0x5d3484 + "\n\ncommand: join", _0x5d3484, "*_Can't Join, Group Id not found, Sorry!!_*");
+     await _0x466dd8.error(_0x5d3484 + "\n\ncommand: join", _0x5d3484, "*_This group is not available,you cant join it!!_*");
    }
  });
  smd({
-   cmdname: "newgc",
+   cmdname: "negr",
    info: "Create New Group",
    type: "whatsapp",
    filename: __filename,
@@ -62,7 +62,7 @@ const {
      }
      let _0x379d99 = _0x3c558e;
      if (_0x379d99.toLowerCase() === "info") {
-       return await _0x1d2f1f.send(("\n  *Its a command to create new Gc*\n  \t```Ex: " + (prefix + cmd) + " My new Group```\n  \n*You also add peoples in newGc*\n  \t```just reply or mention Users```\n  ").trim());
+       return await _0x1d2f1f.send(("\n  *Its a command to create new Gc*\n  \t```Ex: " + (prefix + cmd) + " My new Group```\n  \n*You also add peoples in new group chat*\n  \t```just reply or mention Users```\n  ").trim());
      }
      let _0x5a5c26 = [_0x1d2f1f.sender];
      if (_0x1d2f1f.quoted) {
@@ -92,7 +92,7 @@ const {
        var _0x2fe2c7 = "" + _0x2608ab + _0x3a49e9;
        var _0x539d8f = {
          externalAdReply: {
-           title: "QUEEN_ANITA-V2",
+           title: "𝛸-𝐹𝛩𝑅𝐶𝛯-𝛭𝐷 𝛻5",
            body: "" + _0x37b490,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -101,14 +101,14 @@ const {
            sourceUrl: _0x2fe2c7
          }
        };
-       return await send(_0x1d2f1f, ("*_Hurray, New group created!!!_*\n" + (_0x3a49e9 ? "*_" + _0x2fe2c7 + "_*" : "")).trim(), {
+       return await send(_0x1d2f1f, ("*_Congratulasyins you have managed to create a new group with 𝐂𝚯𝚩𝐔≈≈𝚻𝚵𝐂𝚮_*\n" + (_0x3a49e9 ? "*_" + _0x2fe2c7 + "_*" : "")).trim(), {
          contextInfo: _0x539d8f
        }, "", _0x2c6495);
      } else {
-       await _0x1d2f1f.send("*_Can't create new group, Sorry!!_*");
+       await _0x1d2f1f.send("*_Sorry my system is under breakdown I can't create the group now!!_*");
      }
    } catch (_0x33d6f3) {
-     await _0x1d2f1f.error(_0x33d6f3 + "\n\ncommand: " + _0x49994a, _0x33d6f3, "*_Can't create new group, Sorry!!_*");
+     await _0x1d2f1f.error(_0x33d6f3 + "\n\ncommand: " + _0x49994a, _0x33d6f3, "*_Sorry my system is under breakdown I can't create the group now_*");
    }
  });
  smd({
@@ -134,7 +134,7 @@ const {
        var _0x236a49 = _0x10288a + "-" + _0x436585.toString().padStart(2, "0") + "-" + _0x511884.toString().padStart(2, "0");
        var _0x56eaaf = {
          externalAdReply: {
-           title: "QUEEN_ANITA-V2",
+           title: "𝛸-𝐹𝛩𝑅𝐶𝛯-𝛭𝐷 𝛻5",
            body: _0x5f4890.subject,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -155,7 +155,7 @@ const {
    }
  });
  smd({
-   cmdname: "rejectall",
+   cmdname: "reject",
    alias: ["rejectjoin"],
    info: "reject all request to join!",
    type: "group",
@@ -166,7 +166,7 @@ const {
        return _0xb81e45.reply(tlang().group);
      }
      if (!_0xb81e45.isBotAdmin || !_0xb81e45.isAdmin) {
-       return await _0xb81e45.reply(!_0xb81e45.isBotAdmin ? "*_I'm Not Admin In This Group" + (!_0xb81e45.isCreator ? ", Idiot" : "") + "_*" : tlang().admin);
+       return await _0xb81e45.reply(!_0xb81e45.isBotAdmin ? "*_I'm Not the admin of this group" + (!_0xb81e45.isCreator ? ", Idiot" : "") + "_*" : tlang().admin);
      }
      const _0x4ea369 = await _0xb81e45.bot.groupRequestParticipantsList(_0xb81e45.chat);
      if (!_0x4ea369 || !_0x4ea369[0]) {
@@ -204,7 +204,7 @@ const {
      }
      const _0x3da7c6 = await _0x90a6de.bot.groupRequestParticipantsList(_0x90a6de.chat);
      if (!_0x3da7c6 || !_0x3da7c6[0]) {
-       return await _0x90a6de.reply("*_No Join Request Yet_*");
+       return await _0x90a6de.reply("*_No on hasJoine the call yet_*");
      }
      let _0x4f391e = [];
      let _0x26ddf1 = "*List of accepted users*\n\n";
