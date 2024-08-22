@@ -1,33 +1,32 @@
 {
-    "name": "Queen_Anita-V2",
+    "name": "𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "logo": "https://telegra.ph/file/9cdc23e87023b184192b2.jpg",
+    "keywords": ["calvineonyango", "Volume-5", "X-FORCE-MD"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "𝐂𝚯𝚩𝐔≈≈≈𝚻𝚵𝐂𝚮",
         "required": true
       },
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
-        "required": false
+        "value": "true",
+        "required": true 
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
-        "required": false
+        "value": "https://telegra.ph/file/9cdc23e87023b184192b2.jpg",
+        "required": true 
       },
-  
-      "GOODBYE": {
+       "GOODBYE": {
         "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-        "value": "false",
-        "required": false
+        "value": "true",
+        "required": true 
       },
       "MENU": {
         "description": "choose 1, 2, 3",
@@ -35,17 +34,17 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://telegra.ph/file/e692a1c0212676a0574f6.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
-        "required": false,
-        "value": "Queen_Anita-V2"
+        "required": true,
+        "value": "𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
-        "required": false,
-        "value": "Africa/Lagos"
+        "required": true,
+        "value": "Africa/Kenya"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -75,7 +74,7 @@
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "unavailable"
+        "value": "recording"
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
@@ -85,25 +84,25 @@
       "MSGS_IN_LOG": {
         "description": "Fill the value -true- if you want to see Messages in logs.",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "READ_MESSAGE": {
         "description": "Fill the value true if you want bot to read all messages.",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "DISABLE_PM": {
         "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-        "value": "false",
-        "required": false
+        "value": "true",
+        "required": true 
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": "@"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "254796281776"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -111,17 +110,17 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "public"
+        "value": "ptivate"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_Anita-V2",
-        "required": false
+        "value": "𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5",
+        "required": true 
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
-        "required": false
+        "value": "𝚾 - 𝐅 𝚯 𝚪 𝐂 𝚵 - 𝚳 𝐃",
+        "required": true 
       }  
   },
   
