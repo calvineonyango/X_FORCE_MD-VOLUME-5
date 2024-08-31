@@ -1,5 +1,11 @@
 # <p align="center"> ***𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5*** <p align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=I'M+𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5;CRËÄTËD+BY+ÇÆLVÏÑË+ØBÜ-TECH" alt="Typing SVG" /></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  </p>
+    <img alt="𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5" width="700" height="600" src="https://telegra.ph/file/24989cf3e0f9a40977895.jpg">
+
+
 ***
 
 # <br> <p align="center"> ***𝐅𝐎𝐑𝐂𝐊 𝐑𝐄𝐏𝐎***
@@ -9,7 +15,7 @@
 
  <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑1️⃣***
  <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑2️⃣***
- <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑3️⃣***
+ <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑3️⃣
  <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑4️⃣***
 
 # <br> <p align="center"> ****𝐃𝐄𝐏𝐋𝐎𝐘 𝐘𝐎𝐔𝐘 𝐁𝐎𝐓****
