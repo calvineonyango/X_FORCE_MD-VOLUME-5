@@ -1,60 +1,22 @@
-# <p align="center"> *𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5*<p align="center">
-   
-### 1. FORK THIS REPO
+# <p align="center"> ***𝚾-𝐅𝚯𝚪𝐂𝚵-𝚳𝐃 𝛁𝚯𝐋𝐔𝚳𝚵5*** <p align="center">
+**
+# <br> <p align="center"> ***𝐅𝐎𝐑𝐂𝐊 𝐑𝐄𝐏𝐎***
+<br> <p align="center">  <a href='https://github.com/calvineonyango/X_FORCE_MD-VOLUME-5/github.com//fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/𝐅𝐎𝐑𝐂𝐊 𝐑𝐄𝐏𝐎-darkred?style=for-the-badge&logo=git&logoColor=red'/></a>
 
-<a href='https://github.com/calvineonyango/X_FORCE_MD-VOLUME-5/github.com//fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=red'/></a>
+# <br> <p align="center"> ****𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐎𝐑****
 
-### 2. GET SESSION ID HERE
+ <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑1️⃣***
+ <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑2️⃣***
+ <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑3️⃣***
+ <br> <p align="center"> ***𝐒𝐄𝐑𝐕𝐄𝐑4️⃣***
 
-### SERVER 1
- 
-<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
-
-### SERVER 2 
-### GET SESSION ID HERE
-
-<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
-### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
-
-
-### DEPLOY ON RENDER
-
-1. If you don't have an account in RENDER, create one and deploy.
-    <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PFYaqnuFKi8?si=clmY9NehWGACP1AM)
-
-
-### DEPLOY ON CLEVER CLOUD
-
-1. If you don't have an account in Clever Cloud, create one and deploy.
-    <br>
-    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
-
-### DEPLOY ON HEROKU
-
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/calvineonyango/X_FORCE_MD-VOLUME-5' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-### DEPLOY ON REPLIT
-1. Deploy.
-    <br>
-    <a href='https://github.com/calvineonyango/X_FORCE_MD-VOLUME-5' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-### DEPLOY ON RAILWAY
-1. Deploy.
-    <br>
-    <a href='https://github.com/calvineonyango/X_FORCE_MD-VOLUME-5' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
-
-    <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_ANITA-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+# <br> <p align="center"> ****𝐃𝐄𝐏𝐋𝐎𝐘 𝐘𝐎𝐔𝐘 𝐁𝐎𝐓****
+<br> <p align="center"> ***𝐇𝐄𝐑𝐎𝐊𝐔***
+<br> <p align="center"> ***𝐑𝐄𝐍𝐃𝐄𝐑***
+ <br> <p align="center"> ***𝐏𝐀𝐍𝐄𝐋***
+ <br> <p align="center"> ***𝐑𝐄𝐏𝐋𝐈𝐓***
+<br> <p align="center"> ***𝐂𝐋𝐄𝐕𝐄𝐑 𝐂𝐋𝐎𝐔𝐃***
+ <br> <p align="center"> ***𝐑𝐀𝐈𝐋𝐖𝐀𝐘***
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
@@ -84,7 +46,7 @@
 - *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
   
   #### ```DAVID CYRIL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/calvineonyango/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
